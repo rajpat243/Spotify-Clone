@@ -14,31 +14,6 @@
 
 - **Authentication**: Secure user registration and login processes with Supabase.
 
-- **GitHub Authentication Integration**: Enable secure login using Github authentication.
-
-- **File/Image Upload**: Upload files and images using Supabase storage.
-
-- **Form Validation**: Efficient client form validation and handling using react-hook-form.
-
-- **Error Handling**: Smooth server error handling with react-toast.
-
-- **Audio Playback**: Enable song playback within the application.
-
-- **Favorites System**: Users can mark songs as favorites.
-
-- **Playlists / Liked Songs System**: Create and manage song playlists.
-
-- **Advanced Player Component**: Explore the functionality of an advanced music player component.
-
-- **Stripe Recurring Payment Integration**: Manage recurring payments and subscriptions using Stripe.
-
-- **POST, GET, and DELETE Routes**: Learn to write and manage these crucial routes in route handlers (app/api).
-
-- **Data Fetching**: Master fetching data in server React components by directly accessing the database without API, like magic!
-
-- **Handling Relations**: Handle relations between Server and Child components in a real-time environment.
-
-- **Cancelling Stripe Subscriptions**: Learn how to cancel Stripe subscriptions within the application.
 
 ## Built With
 
@@ -49,5 +24,3 @@
 - PostgreSQL
 - Stripe
 
-# Spotify-Clone
-# Spotify-Clone
