@@ -13,7 +13,7 @@
 - **Authentication**: Secure user registration and login processes with Supabase.
 
 
-## Tools used to build
+## Tools used to build 
 
 - Next.js 13.4
 - React
